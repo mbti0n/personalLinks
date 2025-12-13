@@ -3,7 +3,7 @@
 
 A personal link website, like Linktree, created during the process of self-learning web development, namely HTML, CSS, and JavaScript.
 
-- Using the Catppucchin color palette
+- Using the [Catppucchin color palette](https://catppuccin.com/palette/)
 - Animation when hovering
 - Certified enviromentally-friendly website according to [Website Carbon Calculator](https://www.websitecarbon.com/website/mbti0n-netlify-app/) (cleaner than **100%** of all web pages globally)
 
